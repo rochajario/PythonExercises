@@ -19,7 +19,7 @@ while flag==0:
     if cont==3:
 	#flag=1
         arquivoA.close()
-	arquivoB.close()
+	#arquivoB.close()
         flag=(1)
         os.system('exit')
-	os.system('exit')
+	#os.system('exit')
